@@ -1,0 +1,4 @@
+para usar el api de openai
+npm i express cors body-parsermorgan openai --save
+api-key
+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
